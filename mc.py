@@ -91,4 +91,4 @@ else:
 
 print(s1+s2+spl+s3+s4+spl+s5+s6+spl+s7+s8+spl+s9+s10+spl+s11+s12)
 
-input("press any button to exit")
+input("press enter to exit")
