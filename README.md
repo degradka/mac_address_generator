@@ -1,1 +1,1 @@
-# that shit will generate random mac address that you can use
+# Just launch it and your MAC will be changed to random
